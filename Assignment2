@@ -1,0 +1,8 @@
+like = int(input("Enter your likes: "))
+comment = int(input("Enter your comments: "))
+views = int(input("Enter your views: "))
+
+percentage = ((like + comment) / views) * 100
+
+print("Performance audit report")
+print("Engagement percentage:", percentage)
