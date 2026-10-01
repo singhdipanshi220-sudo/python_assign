@@ -1,0 +1,5 @@
+pessenger_senior_age = 60
+female_pessenger = True
+
+("passenger_senior_age >= 60 and female_pessanger == True")
+print("allow to non tatkal ticket")
