@@ -1,0 +1,10 @@
+the_National_holidayr_festive_print = 50
+not_a_national_holiday = 100
+SUVs_pay_rupees  = 150
+trucks_pay = 300
+
+
+if(("the_National_holidayr_festive_print == 50") or ("SUVs_pay_rupees == 150") or ("trucks_pay == 300")):
+    print("valid vehicle") 
+else:
+    print(" your involid vehicle ok")
